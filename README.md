@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align = "center">
+  <img align="center" width = "100%" height = "100%" src= "https://gifimgs.com/res/0924/66ee0e9f577a5341364115.gif?download" />
+</div>
+
+## Hola, soy Estrellita!👋
 
 <!--
 **EstrellitaC/EstrellitaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

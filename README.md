@@ -23,7 +23,7 @@
 <div align="center">
   <h2>Languages and Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,css,figma,html,js,tailwind,vue,react,mysql,git,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=angular,css,figma,html,js,tailwind,vue,react,mysql,git,bootstrap,typescript" />
   </a>
 </div>
 

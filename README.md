@@ -29,9 +29,6 @@
 
 <div align="center">
   <h2>Contact</h2>
-  <a href="estrellitacaycedo3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/estrellita-caycedo-mendoza/">
     <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

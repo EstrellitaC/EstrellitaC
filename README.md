@@ -18,7 +18,7 @@
 
 ✍️ &nbsp;En mi tiempo libre, me dedico a la edición de videos, leer y crear proyectos.
 
-✉️ &nbsp;¡Puedes contactarte conmigo por estrellitacaycedo3@gmai.com, responderé rapidamente!
+✉️ &nbsp;¡Puedes contactarte conmigo por estrellitacaycedo3@gmail.com, responderé rapidamente!
 
 <div align="center">
   <h2>Languages and Tools</h2>
